@@ -2,7 +2,7 @@ Shonit Gangoly
 [@ShoGan20](https://github.com/ShoGan20)   
  
 
-> Video Demo: [YouTube]()  
+> Video Demo: [YouTube](https://youtu.be/xLBSzU85hrE)  
 > Requirements (I have been using these versions but you can use any):   
     `conda 4.10.1`<br> `jupyter core: 4.6.3` <br> `jupyter-notebook : 6.1.4`<br><br>
 > Run:  
